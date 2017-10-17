@@ -98,5 +98,10 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
+    - description: perfect for you
+      items:
+        - '122333333333333'
+      plan: other
+      price: '88'
 ---
 
